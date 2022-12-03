@@ -1,0 +1,30 @@
+.col-auto-reset {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+nav {
+    position: relative;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+}
+
+nav button {
+    border: none;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+button img {
+    border-radius: 50%;
+}
+.search{
+    border-radius: 20px;
+    background-color: rgba(230, 230, 230, 0.479);
+    display: inline-block;
+
+}
+input , input:focus{
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
